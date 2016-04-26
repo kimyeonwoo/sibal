@@ -7,9 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-test
-<h2>Second push</h2>
-<h2>third push</h2>
-<h2>Git push</h2>
+<h2>fix</h2>
 </body>
 </html>
